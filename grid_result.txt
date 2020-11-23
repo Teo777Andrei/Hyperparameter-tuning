@@ -1,0 +1,7 @@
+best accuracy : 
+
+1.0
+
+best paramteres : 
+
+{'activation_func': 'relu', 'epochs': 200, 'layers': (16, 16, 16)}

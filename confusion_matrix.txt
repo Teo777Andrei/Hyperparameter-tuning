@@ -1,0 +1,4 @@
+confiusion matrix : 
+
+ [[27  0]
+ [ 0 52]]

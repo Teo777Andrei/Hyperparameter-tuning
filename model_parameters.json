@@ -1,0 +1,1 @@
+{"activation_func": "relu", "epochs": 200, "layers": [16, 16, 16]}
